@@ -37,11 +37,15 @@ cd nexus-tech-store
 🔗 https://nexus-tech-store.netlify.app/
 
 📌 Project Highlights
+
 Developed reusable and responsive UI sections
 Improved cross-device compatibility
 Built dynamic frontend interactions using JavaScript
 Focused on clean UI/UX and modern web design principles
+
+
 🎯 Future Improvements
+
 Add shopping cart functionality
 Integrate payment gateway
 Add product filtering and search
